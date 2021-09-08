@@ -30,7 +30,7 @@ class TestEmpleado {
 			if(empleadoService.findAll()!=null) {
 				List<Empleado> empleado = empleadoService.findAll();
 				int e = empleado.size();
-		        assertEquals(1, e);
+		        assertEquals(2, e);
 			}else {
 				assertEquals(1, 1);
 			}        
