@@ -10,19 +10,19 @@ con un nombre y la funcion.
 ##### Listar Empleados
 Se muestran el listado de empleados, en este momento solo existe uno que se deja inicial para
 verificar que funciona correctamente.
-![Alt text](https://github.com/giovannymontero-creator/app-empleados/manual-img/listar.png "Listar empleados")
+![listar](https://user-images.githubusercontent.com/66186685/132532721-6605c75e-7f64-49b0-b5cd-44f82e11a621.png)
 
 ##### Crear empleado
 Se muestra para crear un empleado, con su nombre y funcion
-![Alt text](https://github.com/giovannymontero-creator/app-empleados/manual-img/Crear.png "Crear empleado")
+![Crear](https://user-images.githubusercontent.com/66186685/132532741-b56caaf9-a164-41fe-9e06-37f1fc3cb5af.png)
 
 ##### Editar o actualizar empleado
 Se muestra para actualizar un empleado, con su nombre y funcion cargados y listos para editar
-![Alt text](https://github.com/giovannymontero-creator/app-empleados/manual-img/editar.png "Actualizar empleado")
+![editar](https://user-images.githubusercontent.com/66186685/132532752-71439e5b-7cc2-4469-9320-fa227f23f36a.png)
 
 ##### Eliminar empleado
 Se muestra un botón para eliminar empleado y su respectiva confirmación
-![Alt text](https://github.com/giovannymontero-creator/app-empleados/manual-img/Confirmareliminar.png "Confirmacion Eliminar empleado")
+![Confirmareliminar](https://user-images.githubusercontent.com/66186685/132532762-d3ecfd2f-ea7a-4a7b-b35e-e2ed059a6f10.png)
 
 ## Notas importantes
 Lastimosamente no he manejado docker para los proyectos, por lo tanto no se logro persistir la base
